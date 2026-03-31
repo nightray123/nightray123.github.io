@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "王健"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Nanjing University of Aeronautics and Astronautics, College of Astronautics, 211106, Nanjing  "
+  location         : "Nanjing"
+  employer         : "NUAA"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "BX2315004@nuaa.edu.cn" 
 
   # Academic websites
   academia         : # URL
